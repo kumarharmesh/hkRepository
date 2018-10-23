@@ -6,6 +6,8 @@ namespace ConsoleApp2gt
     {
         static void Main(string[] args)
         {
+            double p = Math.Pow(2, 5);
+            Console.WriteLine(p);
             double ans=Math.Sqrt(30);
             Console.WriteLine(ans);
         }
