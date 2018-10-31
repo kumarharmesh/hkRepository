@@ -14,5 +14,9 @@ namespace ConsoleApp2gt
         {
            return 1200;   
         }
+        public double Root(int x)
+        {
+         return Math.Sqrt(x);   
+        }
     }
 }
