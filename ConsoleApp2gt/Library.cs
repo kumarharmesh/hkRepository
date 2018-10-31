@@ -10,5 +10,9 @@ namespace ConsoleApp2gt
         {
             return DateTime.Now.ToString();
         }
+        public int Day()
+        {
+           return 1200;   
+        }
     }
 }
