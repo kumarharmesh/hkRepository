@@ -6,6 +6,7 @@ namespace ConsoleApp2gt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Added at home");
             double p = Math.Pow(2, 5);
             Console.WriteLine(p);
             double ans=Math.Sqrt(30);
