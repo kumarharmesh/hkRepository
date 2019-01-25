@@ -10,5 +10,9 @@ namespace ConsoleApp2gt
         {
             return Math.Pow(x, y);
         }
+        public static decimal p(decimal n)
+        {
+            return Math.Floor(n);
+        }
     }
 }
