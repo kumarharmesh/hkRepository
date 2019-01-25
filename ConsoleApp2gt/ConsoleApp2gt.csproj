@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Dateexamples.cs" />
     <Compile Remove="Library.cs" />
     <Compile Remove="pool.cs" />
     <Compile Remove="Program.cs" />
